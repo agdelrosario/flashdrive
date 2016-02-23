@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://svn.codespot.com/a/eclipselabs.org/flash-drive/trunk/128ci/.metadata/.plugins
+https://svn.codespot.com/a/eclipselabs.org/flash-drive
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44eba9b2-c84f-aea2-58f7-bbbbe0068762
+
+org.eclipse.wst.validation
+dir
+
+
+
+add
+
+org.eclipse.team.cvs.core
+dir
+
+
+
+add
+
+org.eclipse.jdt.core
+dir
+
+
+
+add
+
+org.eclipse.core.runtime
+dir
+
+
+
+add
+
+org.eclipse.jst.jsp.core
+dir
+
+
+
+add
+
+com.google.gwt.eclipse.core
+dir
+
+
+
+add
+
+org.eclipse.wst.jsdt.ui
+dir
+
+
+
+add
+
+org.eclipse.debug.ui
+dir
+
+
+
+add
+
+com.collabnet.subversion.merge
+dir
+
+
+
+add
+
+org.eclipse.wst.internet.cache
+dir
+
+
+
+add
+
+org.maven.ide.eclipse
+dir
+
+
+
+add
+
+org.eclipse.ui.intro
+dir
+
+
+
+add
+
+org.eclipse.mylyn.bugzilla.core
+dir
+
+
+
+add
+
+org.eclipse.wst.jsdt.core
+dir
+
+
+
+add
+
+org.eclipse.ltk.ui.refactoring
+dir
+
+
+
+add
+
+org.eclipse.mylyn.tasks.ui
+dir
+
+
+
+add
+
+org.eclipse.dltk.ui
+dir
+
+
+
+add
+
+org.eclipse.debug.core
+dir
+
+
+
+add
+
+org.eclipse.ui.ide
+dir
+
+
+
+add
+
+org.tigris.subversion.subclipse.ui
+dir
+
+
+
+add
+
+com.instantiations.eclipse.debug
+dir
+
+
+
+add
+
+org.eclipse.ltk.core.refactoring
+dir
+
+
+
+add
+
+org.eclipse.dltk.core
+dir
+
+
+
+add
+
+org.eclipse.jdt.launching
+dir
+
+
+
+add
+
+org.eclipse.epp.usagedata.recording
+dir
+
+
+
+add
+
+org.eclipse.jdt.ui
+dir
+
+
+
+add
+
+org.eclipse.ui.workbench
+dir
+
+
+
+add
+
+com.google.appengine.eclipse.core
+dir
+
+
+
+add
+
+org.eclipse.core.resources
+dir
+
+
+
+add
+
+com.instantiations.designer.core
+dir
+
+
+
+add
+
+org.eclipse.wst.xml.core
+dir
+
+
+
+add
+
